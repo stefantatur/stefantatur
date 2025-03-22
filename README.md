@@ -1,17 +1,18 @@
 ## Hi there 👋
 
+Меня зовут Стефан :)
+Я занимаюсь ML и DL. Учусть на физмате РУДН. 
+
+➡️ I work focused on Machine Learning & AI Studies, as well as working on other Computer Engineering-related projects
+➡️ 
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </p>
 
-Here are some ideas to get you started:
+|Connect with Me|
+|-----|
+| <a href="stephantatur@gmail.com"><img align="left" alt="Serra's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=41B883" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
