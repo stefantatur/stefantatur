@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Меня зовут Стефан :)
-Я занимаюсь ML и DL. Учусть на физмате РУДН. 
+Я занимаюсь ML и DL. Учусь на физмате РУДН. 
 
 ➡️ I work focused on Machine Learning & AI Studies, as well as working on other Computer Engineering-related projects
 ➡️ 
