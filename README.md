@@ -4,7 +4,7 @@
 Я занимаюсь ML и DL. Учусь на физмате РУДН. 
 
 ➡️ I work focused on Machine Learning & AI Studies, as well as working on other Computer Engineering-related projects
-➡️ 
+
 
 
 |Connect with Me|
